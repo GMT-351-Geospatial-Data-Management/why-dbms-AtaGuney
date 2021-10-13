@@ -1,6 +1,8 @@
   What is Database Management Software (DBMS)?
  
-   A Database Management Software or DBM software is used for storing, manipulating, and managing data, such as format, names of fields, and record and file structures in a database environment. Why a database rather than a spreadsheet?
+   A Database Management Software or DBM software is used for storing, manipulating, and managing data, such as format, names of fields, and record and file structures in a database environment. 
+   
+   Why a database rather than a spreadsheet?
   
   1) Data Purpose
  
